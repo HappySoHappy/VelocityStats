@@ -1,0 +1,7 @@
+{
+  "id": "velocitystats",
+  "name": "VelocityStats",
+  "version": "1.0",
+  "main": "me.howandev.velocitystats.velocity.VelocityStatsPlugin",
+  "authors": ["HowanDev"]
+}

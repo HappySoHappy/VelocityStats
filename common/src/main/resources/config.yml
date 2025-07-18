@@ -1,0 +1,6 @@
+plugin-message-encryption: false
+encryption-secret: "<>"
+
+messages:
+  ServerInfo:
+      timer: 2000
